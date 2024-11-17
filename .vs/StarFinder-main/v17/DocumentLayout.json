@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\StarProjectionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\StarProjectionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\StarPlacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\StarPlacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\MagSlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\MagSlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\SkyBoxToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\SkyBoxToggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\GetStarInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\GetStarInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\changeText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\changeText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\Core\\Star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\Core\\Star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\NamedStar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StarProjection\\Scripts\\NamedStar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MagSlider.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\MagSlider.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\MagSlider.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\MagSlider.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\MagSlider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:32:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarProjectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\StarProjectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\StarProjectionManager.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\StarProjectionManager.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\StarProjectionManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:23:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkyBoxToggle.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\SkyBoxToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\SkyBoxToggle.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\SkyBoxToggle.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\SkyBoxToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:06:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetStarInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\GetStarInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\GetStarInfo.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\GetStarInfo.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\GetStarInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:17:27.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "changeText.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\changeText.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\changeText.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\changeText.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\changeText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:10:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\Core\\Star.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\Core\\Star.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\Core\\Star.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\Core\\Star.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:06:23.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarPlacement.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\StarPlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\StarPlacement.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\StarPlacement.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\StarPlacement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:05:01.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NamedStar.cs",
+              "DocumentMoniker": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\NamedStar.cs",
+              "RelativeDocumentMoniker": "Assets\\StarProjection\\Scripts\\NamedStar.cs",
+              "ToolTip": "C:\\Users\\Shai\\Downloads\\StarFinder-main\\StarFinder-main\\Assets\\StarProjection\\Scripts\\NamedStar.cs",
+              "RelativeToolTip": "Assets\\StarProjection\\Scripts\\NamedStar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:02:19.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
